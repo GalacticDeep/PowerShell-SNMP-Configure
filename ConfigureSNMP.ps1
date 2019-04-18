@@ -1,8 +1,5 @@
 ﻿#start and configure initial SNMP setup for new environment
 #
-#NOT FOR PRODUCTION USE
-#Currently in testing
-#
 # Select all agent services
 # Set traps under community names: "public & GCT#%*"
 # localhost is OM's IP address
